@@ -1,8 +1,10 @@
 # EDA_Ocurrencias_Au_Estados_Unidos
 Integrantes del equipo: Juan Morales, Sebastian Ruiz, Daniel Pareja
 
-Base de datos utilizada: CriticalMineralDepositsGeochemistry.csv 
+Base de datos utilizada: CriticalMineralDepositsGeochemistry.csv
+
 Origen base de datos: Disponible en el sitio web Servicio Geologico Australiano (https://portal.ga.gov.au/)
+
 Link para descarga del dataset: https://critical-minerals.prod-geoserver.gis.ga.gov.au/geoserver/wfs?request=GetFeature&service=WFS&version=1.1.0&typeName=cmmi:CriticalMineralDepositsGeochemistry&outputFormat=excel2007&srsName=EPSG:4326
 
 Metodologia usada: Para el desarrollo del EDA se siguio principalmente la metodologia OSEMN, sin embargo, se incorporo el primer punto de la metologia CRISP-DM (Comprensión del Negocio)
