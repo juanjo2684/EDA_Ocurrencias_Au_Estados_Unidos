@@ -21,4 +21,8 @@ Se desarrollaron ejercicios de analisis exploratorios de datos sobre los 3 datas
 
 ### Datos de precios de gas
 
-Los datos de Tarifas aplicadas de gas natural fueron extraídos de los datos abiertos de la Republica de Colombia. Dónde se presentan los valores, en cantidad monetaria, de los cargos fijos, conexión, reconexión, precios si se tiene un precio en un rango de 0-20 $m^3$ y que tarifa prima si se supera ese volumen de consumo.
+Los datos de Tarifas aplicadas de gas natural fueron extraídos de los datos abiertos de la Republica de Colombia, dónde se presentan los valores, en cantidad monetaria, de los cargos fijos, conexión, reconexión, precios, si se tiene un precio en un rango de 0-20 $m^3$ y que tarifa prima si se supera ese volumen de consumo.
+
+### Datos de empresas Sabaneta
+
+Los datos de Llegadas, Nacimientos, Salidas, Liquidaciones, Cancelaciones y Renovaciones de Empresas en Sabaneta fueron extraídos de los datos abiertos de la Republica de Colombia. Cuenta con campor relacionados a cantidad de empresas para el estado y año en particular, sector económico, estatus de las empresas, cantidad de empleos y activos.
