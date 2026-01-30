@@ -3,7 +3,7 @@ Integrantes del equipo: Juan Morales, Sebastian Ruiz, Daniel Pareja
 
 Dataset utilizado: CriticalMineralDepositsGeochemistry.csv
 
-Origen dataset: Disponible en el sitio web Servicio Geologico Australiano (https://portal.ga.gov.au/)
+Origen dataset: Disponible en el sitio web del Servicio Geologico Australiano (https://portal.ga.gov.au/)
 
 Link para descarga del dataset: https://critical-minerals.prod-geoserver.gis.ga.gov.au/geoserver/wfs?request=GetFeature&service=WFS&version=1.1.0&typeName=cmmi:CriticalMineralDepositsGeochemistry&outputFormat=excel2007&srsName=EPSG:4326
 
