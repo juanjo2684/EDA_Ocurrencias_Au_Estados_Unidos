@@ -13,6 +13,11 @@ Metodologia usada: Para el desarrollo del EDA se siguio principalmente la metodo
 
 - Tarifas aplicadas de gas natural: https://www.datos.gov.co/Minas-y-Energ-a/Tarifas-aplicadas-de-Gas-Natural/ek3f-5wn4/about_data
 
+- Llegadas, Nacimientos, Salidas, Liquidaciones, Cancelaciones y Renovaciones de Empresas en Sabaneta:
+
+## Comentarios
+
+Se desarrollaros ejercicios de analisis exploratorios de datos sobre los 3 datasets consultados, se revisaron en equipo, y se eligio para presentacion el notebook __Actividad_01_EDA_Ocurrencias_Au_Estados_Unidos__. Para consulta se dejaron el el repositorio los otros 2 EDAs y en la carpeta archivos los 3 datasets.
 
 ## Datos de precios de gas
 
